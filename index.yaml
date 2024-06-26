@@ -1,0 +1,12 @@
+project:
+  type: website
+
+website:
+  title: "My Wiki"
+  toc: true
+  toc-location: left
+
+output:
+  html:
+    theme: cosmo
+
