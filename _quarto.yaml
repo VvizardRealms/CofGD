@@ -4,13 +4,12 @@ project:
 website:
   title: "Chronicles of Grim Darkness"
 
-output:
+format:
   html:
     theme: cosmo
     toc: true
-    toc-expand: 2
-    toc-location: left-body
+    toc-depth: 4
+    toc-location: left
     standalone: true
-    embed-resources: 
     site-url: https://vvizardrealms.github.io/CofGD/
-    output-dir: _site
+    output-dir: docs
