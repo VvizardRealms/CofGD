@@ -13,4 +13,4 @@ output:
     standalone: true
     embed-resources: 
     site-url: https://vvizardrealms.github.io/CofGD/
-    output-dir: docs
+    output-dir: _site
