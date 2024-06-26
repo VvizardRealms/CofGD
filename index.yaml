@@ -9,4 +9,5 @@ website:
 output:
   html:
     theme: cosmo
-
+    site-url: https://your-username.github.io/your-repo-name/
+    output-dir: docs
