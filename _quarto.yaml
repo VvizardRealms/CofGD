@@ -8,8 +8,8 @@ format:
   html:
     theme: cosmo
     toc: true
-    toc-depth: 4
-    toc-location: left
+    toc-depth: 3
+    toc-location: body
     standalone: true
     site-url: https://vvizardrealms.github.io/CofGD/
     output-dir: docs
