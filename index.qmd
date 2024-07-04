@@ -145,6 +145,11 @@ Scholastic Lore
 
 Common Lore
 
+#### Starting Equipment:
+
+Laspistol or stub automatic, Imperial robes, autoquil, chrono,
+dataslate, medi-kit
+
 ### CAREER PATH: Arbitrator
 
 #### Free Specialties/Talents:
@@ -165,6 +170,11 @@ Investigation
 Inquiry
 
 Intimidate
+
+#### Starting Equipment:
+
+Shotgun or shock maul, carapace armour, 3 doses of stimm, manacles, 12
+lho sticks
 
 ### CAREER PATH: Cleric
 
@@ -189,6 +199,11 @@ Command
 
 Inquiry
 
+#### Starting Equipment:
+
+Handflamer or Warhammer and stub revolver, Imperial robes or flak vest,
+backpack, glow-globe, monotask servo skull (Loud hailer)
+
 ### CAREER PATH: Guardsman
 
 #### Free Specialties/Talents:
@@ -212,6 +227,11 @@ Command
 Ballistic Skill
 
 Weapon Skill
+
+#### Starting Equipment:
+
+Lasgun (or laspistol and sword), combat vest, Imperial Guard flak
+armour, grapnel and line, 12 lho sticks, magnoculars
 
 ### CAREER PATH: Imperial Psyker
 
@@ -238,6 +258,40 @@ Inquiry
 
 Investigation
 
+#### Starting Equipment:
+
+Laspistol, staff or whip, light flak cloak or flak vest, microbead, psy
+focus
+
+### CAREER PATH: Outcast
+
+#### Free Specialties/Talents:
+
+Common Lore (Underworld)
+
+Security (Sleight of Hand)
+
+Acrobatics (Dodge)
+
+Never Quit \[Can spend a fate point to ignore all effects of damage,
+including unconsciousness, for a number of turns equal to their
+toughness\]
+
+#### Discounted Skills:
+
+Acrobatics
+
+Stealth
+
+Charm
+
+Deceive
+
+#### Starting Equipment:
+
+Autopistol or laspistol, chainsword, armoured bodyglove or flak vest,
+injector, 2 doses of obsurca or slaught
+
 ### CAREER PATH: Rogue Trader
 
 #### Free Specialties/Talents:
@@ -261,29 +315,10 @@ Investigation
 
 Command
 
-### CAREER PATH: Scum
+#### Starting Equipment:
 
-#### Free Specialties/Talents:
-
-Common Lore (Underworld)
-
-Security (Sleight of Hand)
-
-Acrobatics (Dodge)
-
-Never Quit \[Can spend a fate point to ignore all effects of damage,
-including unconsciousness, for a number of turns equal to their
-toughness\]
-
-#### Discounted Skills:
-
-Acrobatics
-
-Stealth
-
-Charm
-
-Deceive
+Laspistol or autopistol, shock maul, mesh cloak or carapace armour,
+auspex, chrono
 
 ### CAREER PATH: Sister of Battle
 
@@ -308,6 +343,11 @@ Intimidate
 
 Medicae
 
+#### Starting Equipment:
+
+Hand flamer or laspistol, chainblade, armoured bodyglove, chrono,
+dataslate, stab-light, micro-bead
+
 ### CAREER PATH: Tech-Priest
 
 #### Free Specialties/Talents:
@@ -331,6 +371,11 @@ Security
 Tech-Use
 
 Trade
+
+#### Starting Equipment:
+
+Autogun or hand cannon, monotask servo-skull (utility) or optical
+mechadendrite, Imperial robes, 2 vials of sacred unguents.
 
 ## Roles
 
@@ -448,6 +493,11 @@ test is required to leave the Progenoids of a fallen brother behind.\]
 
 Black Carapace \[May use Power Armour without penalty\]
 
+#### Starting Equipment:
+
+Astartes power armour, Astartes bolt pistol, 3 Astartes frag grenades, 3
+Astartes krak grenades, Astartes combat knife, repair cement.
+
 ## CHAPTERS
 
 ### CHAPTER: Blood Angels
@@ -523,6 +573,10 @@ Medicae
 
 Inquiry
 
+#### Starting Equipment:
+
+Astartes bolter with fire selector, reductor, narthecium
+
 ### CAREER PATH: Assault Marine
 
 #### Free Specialties/Talents:
@@ -544,6 +598,10 @@ Athletics
 Pilot
 
 Weapon Skill
+
+#### Starting Equipment:
+
+Astartes chainsword, Astartes jump pack
 
 ### CAREER PATH: Devastator Marine
 
@@ -569,6 +627,10 @@ Ballistic Skill
 
 Intimidate
 
+#### Starting Equipment:
+
+Astartes heavy bolter with backpack ammo supply
+
 ### CAREER PATH: Librarian
 
 #### Free Specialties/Talents:
@@ -590,6 +652,10 @@ Forbidden Lore
 Investigation
 
 Scholastic Lore
+
+#### Starting Equipment:
+
+Astartes bolter with fire selector, force weapon
 
 ### CAREER PATH: Tactical Marine
 
@@ -614,6 +680,10 @@ Ballistic Skill
 
 Weapon Skill
 
+#### Starting Equipment:
+
+Astartes bolter with fire selector, one clip of special issue ammunition
+
 ### CAREER PATH: Techmarine
 
 #### Free Specialties/Talents:
@@ -636,6 +706,11 @@ Tech-Use
 Trade
 
 Security
+
+#### Starting Equipment:
+
+Astartes bolter with fire selector, Astartes servo-arm, one common
+Cybernetic
 
 ### CAREER PATH: Chaplain
 
@@ -660,6 +735,10 @@ Intimidate
 Inquiry
 
 Scholastic Lore
+
+#### Starting Equipment:
+
+Crozius Arcanum, Skull Helm, Rosarius
 
 # HERETIC CHARACTERS
 
@@ -1139,6 +1218,228 @@ pain token
 ### VILE PLEASURE: SADISTIC JOY
 
 When an ally suffers, gain an additional pain token
+
+# ARMORY
+
+New Special rules:
+
+Astartes \[May re-roll 1s for attack rolls, weapon itself cannot be used
+by unless character is an Astartes\]
+
+Maximal \[May double the ammo spent in a single attack to double the
+damage\]
+
+Overheats \[When attacking, separately roll a 1d10. On a 1, the user
+takes the full damage from the weapon in addition to the result of the
+roll\]
+
+Power \[When parrying a weapon that is not a Power, Force, Warp, or
+Natural weapon, roll 1d10. On 4+ the opposing weapon is destroyed\]
+
+## Ranged Weapons
+
+### Bolt Weapons
+
+  -----------------------------------------------------------------------------------------------------
+  Name      Class    Damage   Ranges   Clip   Initiative   Strength   Size   Availability   Special
+  --------- -------- -------- -------- ------ ------------ ---------- ------ -------------- -----------
+  Bolt      pistol   5A       30, 60,  8      -2           3          1      4              AP 4
+  Pistol                      120                                                           
+
+  Boltgun   basic    5A       50, 100, 24     -3           3          3      4              AP 4
+                              200                                                           
+
+  Heavy     heavy    6A       150,     60     -4           4          5      5              Autofire
+  Bolter                      300, 600                                                      (full auto
+                                                                                            only), AP 4
+
+  Storm     basic    5A       40, 90,  60     -3           3          3      5              Autofire,
+  Bolter                      180                                                           AP 4
+  -----------------------------------------------------------------------------------------------------
+
+### Flame Weapons
+
+  ------------------------------------------------------------------------------------------------------
+  Name      Class    Damage   Ranges   Clip   Initiative   Strength   Size   Availability   Special
+  --------- -------- -------- -------- ------ ------------ ---------- ------ -------------- ------------
+  Hand      pistol   4A       5, 10,   2      -2           2          2      4              Incendiary
+  Flamer                      20                                                            
+
+  Flamer    basic    4A       10, 20,  6      -4           3          3      4              Incendiary
+                              40                                                            
+
+  Heavy     heavy    5A       20, 30,  4      -5           4          5      5              Incendiary
+  Flamer                      50                                                            
+  ------------------------------------------------------------------------------------------------------
+
+### Las Weapons
+
+  --------------------------------------------------------------------------------------------------------
+  Name        Class    Damage   Ranges     Clip   Initiative   Strength   Size   Availability   Special
+  ----------- -------- -------- ---------- ------ ------------ ---------- ------ -------------- ----------
+  Laspistol   pistol   1        20,40,80   30     0            2          1      2              Maximal
+
+  Lasgun      basic    2        150, 300,  60     -3           3          3      3              Maximal,
+                                600                                                             Autofire
+
+  Laslock     basic    2        150, 300,  1      -3           3          3      2              \-
+                                600                                                             
+
+  Long Las    basic    2        200, 400,  40     -4           3          3      4              Maximal,
+                                800                                                             AP 1
+
+  Hot-shot    pistol   2        50, 100,   40     -2           2          1      5              AP 2
+  Laspistol                     200                                                             
+
+  Hot-shot    basic    4        20, 40, 80 30     -3           3          3      5              AP 2
+  Lasgun                                                                                        
+  --------------------------------------------------------------------------------------------------------
+
+### Launcher Weapons
+
+  ---------------------------------------------------------------------------------------------------------
+  Name       Class   Damage   Ranges      Clip   Initiative   Strength   Size   Availability   Special
+  ---------- ------- -------- ----------- ------ ------------ ---------- ------ -------------- ------------
+  Grenade    basic   \*       40,80,160   6      -3           3          3      5              \*see
+  Launcher                                                                                     Grenades and
+                                                                                               Explosives
+
+  Missile    heavy   \*       200, 400,   1      -5           4          5      5              \* see
+  Launcher                    800                                                              Grenades and
+                                                                                               Explosives
+  ---------------------------------------------------------------------------------------------------------
+
+### Low-Tech Weapons
+
+  -----------------------------------------------------------------------------------------------------------
+  Name       Class    Damage   Ranges      Clip   Initiative   Strength   Size   Availability   Special
+  ---------- -------- -------- ----------- ------ ------------ ---------- ------ -------------- -------------
+  Bolas      thrown   1        x3,x6,x12   1      -2           2          2      \-             Range based
+                                                                                                on
+                                                                                                Str+Agi+Ath
+
+  Bow        basic    2        40, 80, 160 1      -3           2          3      2              \-
+
+  Crossbow   basic    2        40, 80, 160 1      -5           3          2      3              \-
+  -----------------------------------------------------------------------------------------------------------
+
+### Melta Weapons
+
+  ------------------------------------------------------------------------------------------------------
+  Name       Class    Damage   Ranges     Clip   Initiative   Strength   Size   Availability   Special
+  ---------- -------- -------- ---------- ------ ------------ ---------- ------ -------------- ---------
+  Inferno    pistol   10A      10,20,40   12     -2           2          2      5              AP 10
+  Pistol                                                                                       
+
+  Meltagun   basic    10A      20, 40, 80 12     -4           3          3      5              AP 10
+  ------------------------------------------------------------------------------------------------------
+
+### Plasma Weapons
+
+  -----------------------------------------------------------------------------------------------------
+  Name      Class    Damage   Ranges   Clip   Initiative   Strength   Size   Availability   Special
+  --------- -------- -------- -------- ------ ------------ ---------- ------ -------------- -----------
+  Plasma    pistol   7A       30, 60,  10     -2           2          2      5              Maximal,
+  Pistol                      120                                                           Overheats
+
+  Plasma    basic    7A       150,     20     -5           3          3      5              Maximal,
+  Gun                         300, 600                                                      Overheats
+  -----------------------------------------------------------------------------------------------------
+
+### Solid Projectile Weapons
+
+  ---------------------------------------------------------------------------------------------------------
+  Name         Class    Damage   Ranges     Clip   Initiative   Strength   Size   Availability   Special
+  ------------ -------- -------- ---------- ------ ------------ ---------- ------ -------------- ----------
+  Autopistol   pistol   1        20,40,80   18     0            2          1      3              Autofire
+
+  Autogun      basic    2        50, 100,   30     -3           3          2      3              Autofire
+                                 200                                                             
+
+  Autocannon   heavy    3        150, 300,  24     -3           3          3      3              Autofire
+                                 600                                                             (full auto
+                                                                                                 only), AP
+                                                                                                 3
+
+  Hand Cannon  pistol   2        30, 60,    2      -2           3          1      2              AP 1
+                                 120                                                             
+
+  Heavy        heavy    2        50, 100,   80     -3           3          3      3              Autofire
+  Stubber                        200                                                             
+
+  Shotgun      basic    2        20, 40, 80 8      -4           3          2      2              9-Again
+
+  Shotgun      basic    2        20, 40, 80 18     -4           3          2      2              9-Again
+  (combat)                                                                                       
+
+  Sniper Rifle basic    5        200, 400,  6      -5           3          4      5              AP 3
+                                 800                                                             
+
+  Stub         pistol   2        30, 60,    9      -2           3          3      3              \-
+  Automatic                      120                                                             
+
+  Stub         pistol   1        20, 40, 80 6      0            2          1      2              \-
+  Revolver                                                                                       
+  ---------------------------------------------------------------------------------------------------------
+
+### Xenos Weapons
+
+### Chaos Weapons
+
+## Melee Weapons
+
+### Chain Weapons
+
+### Force Weapons
+
+### Low-Tech Weapons
+
+### Power Weapons
+
+### Shock Weapons
+
+### Xenos Weapons
+
+### Chaos Weapons
+
+## Grenades and Explosives
+
+  -----------------------------------------------------------------------------------------------
+  Name           Damage   Blast   Force   Strength   Initiative   Availability   Special
+                          Area                                                   
+  -------------- -------- ------- ------- ---------- ------------ -------------- ----------------
+  Blind Grenade  0        10      \-      2          0            5              Concealment,
+                                                                                 Stun
+
+  Choke Grenade  0        10      \-      2          0            5              Concealment,
+                                                                                 Sedative
+
+  Frag Grenade   2        10      3       2          0            2              Knockdown, Stun
+
+  Hallucinogen   0        10      \-      2          0            5              Concealment,
+  Granade                                                                        Hallucinogenic
+
+  Haywire        0        10      \-      2          0            4              EMP
+  Grenade                                                                        
+
+  Krak Grenade   3        5       4       2          -1           3              Knockdown, Stun
+
+  Flash Grenade  0        5       \-      2          0            2              Stun
+
+  Smoke Grenade  0        10      \-      2          0            5              Concealment
+
+  Stun Grenade   0        5       2       2          0            3              Knockdown, Stun
+
+  Web Grenade    0        10      2       2          0            4              Snare
+
+  Fire Bomb      1        3       2       2          -2           2              Incendiary
+
+  Melta Bomb     10A      5       4       2          -3           5              AP 8, Incendiary
+
+  Frag Missile   6        10      3       \-         \-           2              AP 2
+
+  Krak Missile   8        5       4       \-         \-           3              AP 8
+  -----------------------------------------------------------------------------------------------
 
 # PSYCHIC POWERS
 
