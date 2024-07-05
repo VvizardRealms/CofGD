@@ -3,13 +3,16 @@ project:
 
 website:
   title: "Chronicles of Grim Darkness"
+  sidebar:
+    style: "docked"
+    search: true
+    toc: true
+    toc-depth: 3
+    scope: local
+    position: left
 
 format:
   html:
     theme: cosmo
-    toc: true
-    toc-depth: 3
-    toc-location: body
-    standalone: true
     site-url: https://vvizardrealms.github.io/CofGD/
     output-dir: docs
